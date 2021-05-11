@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Angelper98
-- 👀 I’m interested in DJI drones, Mobile applications (Android and Flutter), NodeJS and Linux Server Administration
+- 👀 I’m interested in DJI drones, Mobile applications (Android and Flutter), NodeJS and Linux Administration Server
 - 🌱 I’m currently learning Spring and Flutter
 - 💞️ I’m looking to collaborate on existing and innovational projects
 - 📫 How to reach me -> angelperezarroyo@gmail.com
